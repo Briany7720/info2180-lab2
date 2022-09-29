@@ -1,2 +1,2 @@
 # info2180-lab2
-lab2
+This is Lab 2 for Brittany Taylor
